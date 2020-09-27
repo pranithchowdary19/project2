@@ -1,1 +1,1 @@
-first line inside c.txt
+first line inside c.txtsecond line
