@@ -1,4 +1,4 @@
 first line inside a.txt
 cat > b.txt
 first line inside b.txt
-second line
+second linesome changes are added
